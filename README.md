@@ -1,1 +1,3 @@
-# digital-clock
+# Digital Clock
+
+![CHEESE!](screen.png)
